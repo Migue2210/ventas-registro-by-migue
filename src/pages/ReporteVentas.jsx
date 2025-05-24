@@ -1,1 +1,0 @@
-export default function ReporteVentas() { return <div>Hola, Migue 🐛</div>; }
